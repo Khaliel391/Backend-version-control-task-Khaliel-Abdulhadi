@@ -8,3 +8,8 @@ class FooterContact {
         System.out.println("Contact us at info@mywebsite.com");
     }
 }
+class FooterStyle {
+    void displayStyle() {
+        System.out.println("Footer styled with gray color and center alignment.");
+    }
+}
