@@ -8,3 +8,8 @@ class HeaderStyle {
         System.out.println("Header styled with blue background.");
     }
 }
+class HeaderMenu {
+    void showMenu() {
+        System.out.println("Menu: Home | About | Contact");
+    }
+}
